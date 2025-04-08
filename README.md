@@ -7,16 +7,17 @@
 <p>
   Hi 👋, I'm Gabriel! A student and programming enthusiast, from Brazil.
 
-  - 🌱 I’m currently studying Python.
+   - 🔭 I'm Infraestructure Analyst, working with backup, cloudcomputing and general support for dev team.
 
-  - 🔭 I'm looking for my first job opportunity in the IT field .
+  - 🌱 I’m currently studying backend.
+
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 23 years old, currently living in Brazil. I have a good english and basic spanish. I studied for six months about the basics concepts for Cloud Compute in AWS through the program AWS Re/Start. I got the certificacion in CLF-CO2 exam, in my Linktree you can see the badge. Because the program I'm started with programming and fell in love with this world.
+  - 💬 I am 24 years old, currently living in Brazil. I have a good english and basic spanish. I studied for six months about the basics concepts for Cloud Compute in AWS through the program AWS Re/Start. I got the certificacion in CLF-CO2 exam, in my Linktree you can see the badge. Because the program I'm started with programming and fell in love with this world.
 
   - ⚡ I enjoy reading, write, watching animes and play games in my free time.
 </details>
