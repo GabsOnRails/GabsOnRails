@@ -22,7 +22,8 @@
  - ⚡ I enjoy reading, write, watching animes and play games in my free time.</p>
 
 <hr> 
-<h3 align="left">Languagens and tools:</h3>
+<h3 align="center">Languagens and tools:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -31,9 +32,9 @@
 
 <hr>
 
-<h3 align="left">Social Media</h3>
+<h3 align="center">Social Media:</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabrielfelipedeoliveira" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
