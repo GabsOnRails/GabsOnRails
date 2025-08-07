@@ -9,7 +9,7 @@
 
    - 🔭 I'm Infraestructure Analyst, working with backup, cloudcomputing and general support for dev team.
 
-  - 🌱 I’m currently studying backend.
+  - 🌱 I'm currently studying software engineering.
 
 </p>
 
@@ -17,36 +17,34 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 24 years old, currently living in Brazil. I have a good english and basic spanish. I studied for six months about the basics concepts for Cloud Compute in AWS through the program AWS Re/Start. I got the certificacion in CLF-CO2 exam, in my Linktree you can see the badge. Because the program I'm started with programming and fell in love with this world.
+  - <p align="left"> 💬 I have 25, currently living in Brazil. I studied for six months about the basics concepts for Cloud Compute in AWS through the program AWS Re/Start. I got the certificacion in CLF-CO2 exam. Because the program I'm started with programming and fell in love with this world.<br> 
 
-  - ⚡ I enjoy reading, write, watching animes and play games in my free time.
-</details>
+ - ⚡ I enjoy reading, write, watching animes and play games in my free time.</p>
+
+<hr> 
+<h3 align="left">Languagens and tools:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
+<hr>
+
+<h3 align="left">Social Media</h3>
 
 <div align="left">
-<hr>
-<h3> My social contacts:</h3>
-<a href="https://linktr.ee/Gabe_Felipe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabrielfelipedeoliveira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielfelipedeoliveira" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/Gabe_Felipe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
 </div>
 
-<div align="left">
-<hr>
-<h3> Languages that I learning:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-  
-##
-<h3>Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" width="120" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="40"/> </a> 
-</div>
-
-<div>
-<hr>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsOnRails&show_icons=true&theme=gotham&rank_icon=github&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsOnRails&layout=compact&theme=gotham&hide_border=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pere&layout=compact)](https://wakatime.com/@Pere)
-</div>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabsOnRails&label=Profile%20views&color=0e75b6&style=flat" alt="gabspere" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabsOnRails/GabsOnRails/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabsOnRails/GabsOnRails/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabsOnRails/GabsOnRails/output/pacman-contribution-graph.svg">
+</picture>
 
