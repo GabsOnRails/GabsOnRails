@@ -7,8 +7,6 @@
 <p>
   Hi 👋, I'm Gabriel! A student and programming enthusiast, from Brazil.
 
-   - 🔭 I'm Infraestructure Analyst, working with backup, cloudcomputing and general support for dev team.
-
   - 🌱 I'm currently studying software engineering.
 
 </p>
