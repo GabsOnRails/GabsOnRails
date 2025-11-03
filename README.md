@@ -11,9 +11,8 @@
 
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+
+  <h3>👨‍💻 More about me</h3>
 
   - <p align="left"> 💬 I have 25, currently living in Brazil. I studied for six months about the basics concepts for Cloud Compute in AWS through the program AWS Re/Start. I got the certificacion in CLF-CO2 exam. Because the program I'm started with programming and fell in love with this world.<br> 
 
