@@ -23,10 +23,9 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go lang image" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="amazonwebservices logo" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go lang image" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure logo" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python logo" style="margin: 5px;" />
 </div>
 
 <hr>
