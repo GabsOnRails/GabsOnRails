@@ -1,44 +1,41 @@
-<h1 align="center">Hello, World! 👋</h1>
+<h1 align="center">👋 Hello, World!</h1>
 
-[![MasterHead](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)](https://github.com/GabsOnRails)
-
-<h3 align="center">Welcome to my portfolio</h3>
-
----
-
-## 👋 About Me
-Hi, I'm **Gabriel**, a 25-year-old programming enthusiast from Brazil.  
-Currently, I'm studying **Software Engineering** and exploring the world of backend development.  
-
-- 🌱 I'm currently studying software engineering and improving my **programming skills in Go**.   
-- ⚡ I enjoy reading, write, watching animes and play games in my spare time.
+<p align="center">
+  Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e experimentos com tecnologia — sempre focado em Backend, Go e AWS.
+</p>
 
 ---
 
-## 👨‍💻 Skills & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" style="margin:5px;" />
-</div>
+## 🚀 Sobre mim
+
+- 👨‍💻 **Gabriel Felipe de Oliveira**  
+- 🎯 Backend Developer  
+- 🧰 Go | AWS | Git | Linux  
+- 📍 São Paulo – SP  
+- 🔗 <a href="https://github.com/GabsOnRails">github.com/GabsOnRails</a>  
+- 💼 <a href="https://linkedin.com/in/gabrielfelipedeoliveira">Linkedin</a>  
 
 ---
 
-## 🌐 Social Media
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabrielfelipedeoliveira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:5px;" />
-  </a>
-  <a href="https://linktr.ee/Gabe_Felipe" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" style="margin:5px;" />
-  </a>
-</div>
+## 🧪 Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabsOnRails/GabsOnRails/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabsOnRails/GabsOnRails/output/pacman-contribution-graph.svg">
-  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/GabsOnRails/GabsOnRails/output/pacman-contribution-graph.svg">
-</picture>
+## 📌 Projeto em Destaque
+
+- 🧮 **Calculadora em Go**  
+  Operações básicas (+ - * /) com testes usando **Ginkgo + Gomega**.
+
+---
+
+## 🤝 Contato
+
+Se quiser trocar uma ideia, colaborar ou pedir ajuda, só chamar!  
+📨 gfelipe.oliveira2000@gmail.com
